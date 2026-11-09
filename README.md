@@ -3,3 +3,4 @@
 - Project 2: TD of Neural Network course. We want to classify a turmoil if it is a cancer or non-cancer turmoil based on its features such as size, roughness, diameter, etc.
 - Project 3: the classic MNIST using Pytorch's Tensor.
 - Project 4: Evolution of average income, Cambodia, 1950-2022. Study the inequality and socio-environmental metrics
+- Project 5: Credit card fraud detection using k-mean algorithm.
